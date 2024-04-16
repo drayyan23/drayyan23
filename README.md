@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rayyan, an <a href="https://www.linkedin.com/in/rayyan-dunn-3191212ba/">IT Professional</a></h1>
+<h1>Hi, I'm Rayyan, an <a href="https://www.linkedin.com/in/rayyandunn1/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
